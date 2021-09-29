@@ -1,0 +1,3612 @@
+fileFormatVersion: 2
+guid: c28d442271e0cf8e3bc593ca48efc994
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8305935141876086389
+    second: skeleton cleaned_0
+  - first:
+      213: -1098428945602122608
+    second: skeleton cleaned_1
+  - first:
+      213: 4948410564664441356
+    second: skeleton cleaned_2
+  - first:
+      213: -8441288779762197572
+    second: skeleton cleaned_3
+  - first:
+      213: -2246540124647147769
+    second: skeleton cleaned_4
+  - first:
+      213: -1017107641538147089
+    second: skeleton cleaned_5
+  - first:
+      213: -7778604504720976372
+    second: skeleton cleaned_6
+  - first:
+      213: 2846828558491678732
+    second: skeleton cleaned_7
+  - first:
+      213: 695839236510242838
+    second: skeleton cleaned_8
+  - first:
+      213: -3548135021181617851
+    second: skeleton cleaned_9
+  - first:
+      213: -2491187281027324732
+    second: skeleton cleaned_10
+  - first:
+      213: -3138515860402405149
+    second: skeleton cleaned_11
+  - first:
+      213: 2731661940546956490
+    second: skeleton cleaned_12
+  - first:
+      213: 719537293101102480
+    second: skeleton cleaned_13
+  - first:
+      213: 6856131132413688097
+    second: skeleton cleaned_14
+  - first:
+      213: -8184249989155885342
+    second: skeleton cleaned_15
+  - first:
+      213: -5067093203814735638
+    second: skeleton cleaned_16
+  - first:
+      213: 8971475349467172333
+    second: skeleton cleaned_17
+  - first:
+      213: 4547781156586642302
+    second: skeleton cleaned_18
+  - first:
+      213: -6348153412321123715
+    second: skeleton cleaned_19
+  - first:
+      213: 4486245424272644399
+    second: skeleton cleaned_20
+  - first:
+      213: 2127363633456816630
+    second: skeleton cleaned_21
+  - first:
+      213: -9047012159009448152
+    second: skeleton cleaned_22
+  - first:
+      213: -3967169699555273298
+    second: skeleton cleaned_23
+  - first:
+      213: 8744042353367746579
+    second: skeleton cleaned_24
+  - first:
+      213: 8385166731349909207
+    second: skeleton cleaned_25
+  - first:
+      213: 5725344206076185009
+    second: skeleton cleaned_26
+  - first:
+      213: -6387994443254956294
+    second: skeleton cleaned_27
+  - first:
+      213: 6410715669380850169
+    second: skeleton cleaned_28
+  - first:
+      213: -8130143784442192737
+    second: skeleton cleaned_29
+  - first:
+      213: -5773182781145894429
+    second: skeleton cleaned_30
+  - first:
+      213: -1277495235557656500
+    second: skeleton cleaned_31
+  - first:
+      213: -5228198159919227727
+    second: skeleton cleaned_32
+  - first:
+      213: -3173336579700261373
+    second: skeleton cleaned_33
+  - first:
+      213: -1116229576535429440
+    second: skeleton cleaned_34
+  - first:
+      213: 7670218526397969416
+    second: skeleton cleaned_35
+  - first:
+      213: 8259247578411764076
+    second: skeleton cleaned_36
+  - first:
+      213: 5157390511651795257
+    second: skeleton cleaned_37
+  - first:
+      213: 7440756648613931707
+    second: skeleton cleaned_38
+  - first:
+      213: 8161697493030598280
+    second: skeleton cleaned_39
+  - first:
+      213: 7296462061941592429
+    second: skeleton cleaned_40
+  - first:
+      213: -554158835055228536
+    second: skeleton cleaned_41
+  - first:
+      213: 3521181199664389294
+    second: skeleton cleaned_42
+  - first:
+      213: 1335509460377417499
+    second: skeleton cleaned_43
+  - first:
+      213: 6171788517029630321
+    second: skeleton cleaned_44
+  - first:
+      213: -3329955484063759308
+    second: skeleton cleaned_45
+  - first:
+      213: 7139610558655396488
+    second: skeleton cleaned_46
+  - first:
+      213: -6273865472686921481
+    second: skeleton cleaned_47
+  - first:
+      213: 6507816139622225716
+    second: skeleton cleaned_48
+  - first:
+      213: 435843694201006932
+    second: skeleton cleaned_49
+  - first:
+      213: 1801932839024633182
+    second: skeleton cleaned_50
+  - first:
+      213: -7023967892970477213
+    second: skeleton cleaned_51
+  - first:
+      213: 4504095246380401072
+    second: skeleton cleaned_52
+  - first:
+      213: 3136559690478537932
+    second: skeleton cleaned_53
+  - first:
+      213: -6835288770359550877
+    second: skeleton cleaned_54
+  - first:
+      213: -6404010079528971083
+    second: skeleton cleaned_55
+  - first:
+      213: -5194252431257468702
+    second: skeleton cleaned_56
+  - first:
+      213: -8016252631717948535
+    second: skeleton cleaned_57
+  - first:
+      213: -6771288237104093050
+    second: skeleton cleaned_58
+  - first:
+      213: -2071132797961938677
+    second: skeleton cleaned_59
+  - first:
+      213: 4549849504662025789
+    second: skeleton cleaned_60
+  - first:
+      213: -2165478360179453277
+    second: skeleton cleaned_61
+  - first:
+      213: 8588450874091930600
+    second: skeleton cleaned_62
+  - first:
+      213: 6744139982030647630
+    second: skeleton cleaned_63
+  - first:
+      213: -5858803970547279124
+    second: skeleton cleaned_64
+  - first:
+      213: -55189824305265324
+    second: skeleton cleaned_65
+  - first:
+      213: 5478907960433988028
+    second: skeleton cleaned_66
+  - first:
+      213: -4935914627635133931
+    second: skeleton cleaned_67
+  - first:
+      213: -985947831344280345
+    second: skeleton cleaned_68
+  - first:
+      213: 4116337378671138967
+    second: skeleton cleaned_69
+  - first:
+      213: 1909621125886161174
+    second: skeleton cleaned_70
+  - first:
+      213: -6006427574687897472
+    second: skeleton cleaned_71
+  - first:
+      213: 2243895379308940216
+    second: skeleton cleaned_72
+  - first:
+      213: 8677485324675343013
+    second: skeleton cleaned_73
+  - first:
+      213: 3738998422674211305
+    second: skeleton cleaned_74
+  - first:
+      213: 1317428597025952775
+    second: skeleton cleaned_75
+  - first:
+      213: -7573137820096268066
+    second: skeleton cleaned_76
+  - first:
+      213: 1072386183106246395
+    second: skeleton cleaned_77
+  - first:
+      213: -5891400285725873178
+    second: skeleton cleaned_78
+  - first:
+      213: 7250515827752974629
+    second: skeleton cleaned_79
+  - first:
+      213: -3037851079537822240
+    second: skeleton cleaned_80
+  - first:
+      213: 2542849488049911403
+    second: skeleton cleaned_81
+  - first:
+      213: -7672445667488561649
+    second: skeleton cleaned_82
+  - first:
+      213: -9220395491131554799
+    second: skeleton cleaned_83
+  - first:
+      213: 1284098308804846278
+    second: skeleton cleaned_84
+  - first:
+      213: 5373865645972616700
+    second: skeleton cleaned_85
+  - first:
+      213: 6489940329643148827
+    second: skeleton cleaned_86
+  - first:
+      213: 6764492463881595958
+    second: skeleton cleaned_87
+  - first:
+      213: -1289134927768518090
+    second: skeleton cleaned_88
+  - first:
+      213: -7364301078633494660
+    second: skeleton cleaned_89
+  - first:
+      213: 6220161796075749383
+    second: skeleton cleaned_90
+  - first:
+      213: 5203677257575216895
+    second: skeleton cleaned_91
+  - first:
+      213: -3110432759308127097
+    second: skeleton cleaned_92
+  - first:
+      213: -2353231591168278121
+    second: skeleton cleaned_93
+  - first:
+      213: -623366025476388765
+    second: skeleton cleaned_94
+  - first:
+      213: -4670044294724114827
+    second: skeleton cleaned_95
+  - first:
+      213: 4493599611123305539
+    second: skeleton cleaned_96
+  - first:
+      213: 1107619039262646489
+    second: skeleton cleaned_97
+  - first:
+      213: 2865143102045284564
+    second: skeleton cleaned_98
+  - first:
+      213: 7604270890643509819
+    second: skeleton cleaned_99
+  - first:
+      213: -4538559547097784072
+    second: skeleton cleaned_100
+  - first:
+      213: 4975205761158209035
+    second: skeleton cleaned_101
+  - first:
+      213: -6925147505176428497
+    second: skeleton cleaned_102
+  - first:
+      213: -2256293739045242910
+    second: skeleton cleaned_103
+  - first:
+      213: 4095839897940769610
+    second: skeleton cleaned_104
+  - first:
+      213: 3020599084099681741
+    second: skeleton cleaned_105
+  - first:
+      213: 7894689958310736304
+    second: skeleton cleaned_106
+  - first:
+      213: 7993742365098690632
+    second: skeleton cleaned_107
+  - first:
+      213: 8709754915278109959
+    second: skeleton cleaned_108
+  - first:
+      213: 7864066802533569437
+    second: skeleton cleaned_109
+  - first:
+      213: 8117692951356098929
+    second: skeleton cleaned_110
+  - first:
+      213: 5034887897701539707
+    second: skeleton cleaned_111
+  - first:
+      213: -4053259579994034783
+    second: skeleton cleaned_112
+  - first:
+      213: -7594028789911738233
+    second: skeleton cleaned_113
+  - first:
+      213: -1494285718169736873
+    second: skeleton cleaned_114
+  - first:
+      213: -369855876741004965
+    second: skeleton cleaned_115
+  - first:
+      213: 636686023412582750
+    second: skeleton cleaned_116
+  - first:
+      213: 17926159723321415
+    second: skeleton cleaned_117
+  - first:
+      213: -1965791827537856470
+    second: skeleton cleaned_118
+  - first:
+      213: 8048856876739674156
+    second: skeleton cleaned_119
+  - first:
+      213: 1761631698007965261
+    second: skeleton cleaned_120
+  - first:
+      213: -7816631227808747628
+    second: skeleton cleaned_121
+  - first:
+      213: -2434744768430161109
+    second: skeleton cleaned_122
+  - first:
+      213: 6306529218229341410
+    second: skeleton cleaned_123
+  - first:
+      213: 8424752875307259275
+    second: skeleton cleaned_124
+  - first:
+      213: -3217988058705878145
+    second: skeleton cleaned_125
+  - first:
+      213: -1339572282134945582
+    second: skeleton cleaned_126
+  - first:
+      213: -8719032368401335758
+    second: skeleton cleaned_127
+  - first:
+      213: -4920765490551323623
+    second: skeleton cleaned_128
+  - first:
+      213: 2484251167086554325
+    second: skeleton cleaned_129
+  - first:
+      213: -3605231123079808518
+    second: skeleton cleaned_130
+  - first:
+      213: 7482164192739675415
+    second: skeleton cleaned_131
+  - first:
+      213: -154495601261431130
+    second: skeleton cleaned_132
+  - first:
+      213: -4882210204846562567
+    second: skeleton cleaned_133
+  - first:
+      213: -1976397878352368433
+    second: skeleton cleaned_134
+  - first:
+      213: -6981815610855693106
+    second: skeleton cleaned_135
+  - first:
+      213: -7230399570784949318
+    second: skeleton cleaned_136
+  - first:
+      213: 2790642032193054921
+    second: skeleton cleaned_137
+  - first:
+      213: -2450224533173919513
+    second: skeleton cleaned_138
+  - first:
+      213: -6955224794763489533
+    second: skeleton cleaned_139
+  - first:
+      213: -4384576990790317048
+    second: skeleton cleaned_140
+  - first:
+      213: 1125015338237552144
+    second: skeleton cleaned_141
+  - first:
+      213: 982641192323343742
+    second: skeleton cleaned_142
+  - first:
+      213: -5520422347087077495
+    second: skeleton cleaned_143
+  - first:
+      213: -3406639678365601934
+    second: skeleton cleaned_144
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skeleton cleaned_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 717
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57635fa310c944370800000000000000
+      internalID: 8305935141876086389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 684
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ce06691b891c0f0800000000000000
+      internalID: -1098428945602122608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 684
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a3d95d0394ca440800000000000000
+      internalID: 4948410564664441356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 684
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb98c324948ada80800000000000000
+      internalID: -8441288779762197572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 684
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707beb8c8afa2d0e0800000000000000
+      internalID: -2246540124647147769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 684
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec88c72df182e1f0800000000000000
+      internalID: -1017107641538147089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_6
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 619
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c065adf6a68dc0490800000000000000
+      internalID: -7778604504720976372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_7
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 619
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c087555ad77f18720800000000000000
+      internalID: 2846828558491678732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_8
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 619
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618d8f0591e18a900800000000000000
+      internalID: 695839236510242838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_9
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 619
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549b85f3ffd72cec0800000000000000
+      internalID: -3548135021181617851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_10
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 619
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c42565ed568d6dd0800000000000000
+      internalID: -2491187281027324732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_11
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 619
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e009ca1470c174d0800000000000000
+      internalID: -3138515860402405149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_12
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 619
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc61ccdf00d8e520800000000000000
+      internalID: 2731661940546956490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 619
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095ffe51b5f4cf900800000000000000
+      internalID: 719537293101102480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 619
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129b30980fed52f50800000000000000
+      internalID: 6856131132413688097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 619
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee6e533ff3bb6e80800000000000000
+      internalID: -8184249989155885342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 619
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0a3d6e3911ea9b0800000000000000
+      internalID: -5067093203814735638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 554
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded0a242c45118c70800000000000000
+      internalID: 8971475349467172333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 554
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bdf82edd6fc1f30800000000000000
+      internalID: 4547781156586642302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 554
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d726aeefa14d6e7a0800000000000000
+      internalID: -6348153412321123715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 554
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f291ef8b178524e30800000000000000
+      internalID: 4486245424272644399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 489
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1274014f9e58d10800000000000000
+      internalID: 2127363633456816630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_22
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f1a9fdf5e827280800000000000000
+      internalID: -9047012159009448152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_23
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5905e5d28c1f8c0800000000000000
+      internalID: -3967169699555273298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_24
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 489
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31884754134195970800000000000000
+      internalID: 8744042353367746579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_25
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 489
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ded88437b81e5470800000000000000
+      internalID: 8385166731349909207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 489
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b90304a832847f40800000000000000
+      internalID: 5725344206076185009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 489
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe7e9e16e84957a0800000000000000
+      internalID: -6387994443254956294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1e9759fef67f850800000000000000
+      internalID: 6410715669380850169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_29
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c197bad4deb2f80800000000000000
+      internalID: -8130143784442192737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_30
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1b56229d881efa0800000000000000
+      internalID: -5773182781145894429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_31
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48f45a0adc654ee0800000000000000
+      internalID: -1277495235557656500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcd9a64975b177b0800000000000000
+      internalID: -5228198159919227727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_33
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e763e913b06f3d0800000000000000
+      internalID: -3173336579700261373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce22da3d1b5280f0800000000000000
+      internalID: -1116229576535429440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_35
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80432977c17127a60800000000000000
+      internalID: 7670218526397969416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c690d37c9edbe9270800000000000000
+      internalID: 8259247578411764076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931b9f6685bb29740800000000000000
+      internalID: 5157390511651795257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba62c4cfb0e24760800000000000000
+      internalID: 7440756648613931707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_39
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 719
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886f84c90ac244170800000000000000
+      internalID: 8161697493030598280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_40
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 716
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d619427469d324560800000000000000
+      internalID: 7296462061941592429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_41
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 719
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889836fb97b3f48f0800000000000000
+      internalID: -554158835055228536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_42
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 717
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac97c325afbdd030800000000000000
+      internalID: 3521181199664389294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_43
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 719
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1738f347cea88210800000000000000
+      internalID: 1335509460377417499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_44
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 717
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171d26ae4f896a550800000000000000
+      internalID: 6171788517029630321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_45
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 724
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434048e412f99c1d0800000000000000
+      internalID: -3329955484063759308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_46
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 724
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a784fc9fdf41360800000000000000
+      internalID: 7139610558655396488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_47
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 724
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f868ebc790cee8a0800000000000000
+      internalID: -6273865472686921481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_48
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 724
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4379cb19c48605a50800000000000000
+      internalID: 6507816139622225716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_49
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 724
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45be17ad78d6c0600800000000000000
+      internalID: 435843694201006932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_50
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 724
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55ac2bbe50c10910800000000000000
+      internalID: 1801932839024633182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_51
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 724
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369eeb97a6ad58e90800000000000000
+      internalID: -7023967892970477213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_52
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 724
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1870b43c2c18e30800000000000000
+      internalID: 4504095246380401072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_53
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 701
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc48c79b6c478b20800000000000000
+      internalID: 3136559690478537932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_54
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 699
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c9089041d2421a0800000000000000
+      internalID: -6835288770359550877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_55
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 699
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b497a733c26027a0800000000000000
+      internalID: -6404010079528971083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_56
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 701
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e080312fee4ae7b0800000000000000
+      internalID: -5194252431257468702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_57
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 699
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98359a014bc80c090800000000000000
+      internalID: -8016252631717948535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_58
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 701
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68821a3693d8702a0800000000000000
+      internalID: -6771288237104093050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_59
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 701
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0951de81bbd143e0800000000000000
+      internalID: -2071132797961938677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_60
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 706
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36fdd2b400542f30800000000000000
+      internalID: 4549849504662025789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_61
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 706
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a255b497eca2f1e0800000000000000
+      internalID: -2165478360179453277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_62
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 670
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e38421019e403770800000000000000
+      internalID: 8588450874091930600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_63
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 667
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e413278e49ff79d50800000000000000
+      internalID: 6744139982030647630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_64
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 667
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea91ee74d851bea0800000000000000
+      internalID: -5858803970547279124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_65
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 670
+        width: 57
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455811fa52deb3ff0800000000000000
+      internalID: -55189824305265324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_66
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 670
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb15ab2f2cdf80c40800000000000000
+      internalID: 5478907960433988028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_67
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 670
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512472a3ccb108bb0800000000000000
+      internalID: -4935914627635133931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_68
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 667
+        width: 51
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec48a1dba53152f0800000000000000
+      internalID: -985947831344280345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_69
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 660
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7981b5f590b202930800000000000000
+      internalID: 4116337378671138967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_70
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 657
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611b600eb46508a10800000000000000
+      internalID: 1909621125886161174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_71
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 660
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088ed99b1f1e4aca0800000000000000
+      internalID: -6006427574687897472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_72
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 660
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb89d475fae32f10800000000000000
+      internalID: 2243895379308940216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_73
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 658
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a260f07dee9c6870800000000000000
+      internalID: 8677485324675343013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_74
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 660
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e10e3f514793e330800000000000000
+      internalID: 3738998422674211305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_75
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 658
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7045ca63452784210800000000000000
+      internalID: 1317428597025952775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_76
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 660
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8f51ed64fc6e690800000000000000
+      internalID: -7573137820096268066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_77
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 660
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6b5124d81e1ee00800000000000000
+      internalID: 1072386183106246395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_78
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 652
+        width: 57
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebaca377aa8d3ea0800000000000000
+      internalID: -5891400285725873178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_79
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 640
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529309ffab10f9460800000000000000
+      internalID: 7250515827752974629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_80
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 640
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e57c93d98267d5d0800000000000000
+      internalID: -3037851079537822240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_81
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 642
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66bf7403240a4320800000000000000
+      internalID: 2542849488049911403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_82
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 640
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f060cd6d05ff58590800000000000000
+      internalID: -7672445667488561649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_83
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 642
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1148d7e07239a0080800000000000000
+      internalID: -9220395491131554799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_84
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 640
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c22ef0cb9802d110800000000000000
+      internalID: 1284098308804846278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_85
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 642
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf57fd2455ec39a40800000000000000
+      internalID: 5373865645972616700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_86
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 640
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b168cd93856e01a50800000000000000
+      internalID: 6489940329643148827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_87
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 624
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c287b5e0e40ed50800000000000000
+      internalID: 6764492463881595958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_88
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 622
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6320fc20d921c1ee0800000000000000
+      internalID: -1289134927768518090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_89
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 622
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77460dcf2fbcc990800000000000000
+      internalID: -7364301078633494660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_90
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 622
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7000d8c9234725650800000000000000
+      internalID: 6220161796075749383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_91
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 624
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6bc8f35ec273840800000000000000
+      internalID: 5203677257575216895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_92
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 588
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78473bb92e585d4d0800000000000000
+      internalID: -3110432759308127097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_93
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 585
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7910036f554a75fd0800000000000000
+      internalID: -2353231591168278121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_94
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 588
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368ce6e07eb5957f0800000000000000
+      internalID: -623366025476388765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_95
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 586
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57621a7f47ba03fb0800000000000000
+      internalID: -4670044294724114827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_96
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 588
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c86d7c9097c5e30800000000000000
+      internalID: 4493599611123305539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_97
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 586
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0a5b5d5ad0f5f00800000000000000
+      internalID: 1107619039262646489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_98
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 570
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8e11c987803c720800000000000000
+      internalID: 2865143102045284564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_99
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 568
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3256acf51cc78960800000000000000
+      internalID: 7604270890643509819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_100
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 570
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f06743632cc301c0800000000000000
+      internalID: -4538559547097784072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_101
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 570
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0edf4ea74b7b0540800000000000000
+      internalID: 4975205761158209035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_102
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 530
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20c6c8f80fe4ef90800000000000000
+      internalID: -6925147505176428497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_103
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 527
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e735477cc800b0e0800000000000000
+      internalID: -2256293739045242910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_104
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 530
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bb1adbfa857d830800000000000000
+      internalID: 4095839897940769610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_105
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 528
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdb1a8fcd25be920800000000000000
+      internalID: 3020599084099681741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_106
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 530
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b174f070b29f8d60800000000000000
+      internalID: 7894689958310736304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_107
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 528
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848c2b1145a7fee60800000000000000
+      internalID: 7993742365098690632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_108
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 512
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d3dddf2f34fd870800000000000000
+      internalID: 8709754915278109959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_109
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 510
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9394fe5717c22d60800000000000000
+      internalID: 7864066802533569437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_110
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 512
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179c549dab6d7a070800000000000000
+      internalID: 8117692951356098929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_111
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 510
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fd962fdd38fd540800000000000000
+      internalID: 5034887897701539707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_112
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 512
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ada10813edefb7c0800000000000000
+      internalID: -4053259579994034783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_113
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 468
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788a83bec079c9690800000000000000
+      internalID: -7594028789911738233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_114
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 465
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759ad8f6e0b334be0800000000000000
+      internalID: -1494285718169736873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_115
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 468
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5103c82a020edaf0800000000000000
+      internalID: -369855876741004965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_116
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 468
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5986f2a096f5d800800000000000000
+      internalID: 636686023412582750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_117
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 466
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748de7e4fbfaf3000800000000000000
+      internalID: 17926159723321415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_118
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 468
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a287d318fba18b4e0800000000000000
+      internalID: -1965791827537856470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_119
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 466
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20470a4fa843bf60800000000000000
+      internalID: 8048856876739674156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_120
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 450
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e35d022b2927810800000000000000
+      internalID: 1761631698007965261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_121
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 448
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49feb36005fb58390800000000000000
+      internalID: -7816631227808747628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_122
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 450
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23cafe688c063ed0800000000000000
+      internalID: -2434744768430161109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_123
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 448
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec8e2a19ea458750800000000000000
+      internalID: 6306529218229341410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_124
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 450
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85d3259a1cbae470800000000000000
+      internalID: 8424752875307259275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_125
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 448
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73236509e86753d0800000000000000
+      internalID: -3217988058705878145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_126
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 450
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d023645b12e86de0800000000000000
+      internalID: -1339572282134945582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_127
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 450
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a3e40a146cff680800000000000000
+      internalID: -8719032368401335758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_128
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 340
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91400b09bdde5bbb0800000000000000
+      internalID: -4920765490551323623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_129
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 340
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc2b0b3645d97220800000000000000
+      internalID: 2484251167086554325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_130
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 101
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af935a71565a7fdc0800000000000000
+      internalID: -3605231123079808518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_131
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 101
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d456be0bcf5d760800000000000000
+      internalID: 7482164192739675415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_132
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 99
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6b377b11f1bddf0800000000000000
+      internalID: -154495601261431130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_133
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 99
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2655d8fa7ee3cb0800000000000000
+      internalID: -4882210204846562567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_134
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 98
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcca8fdd99c6294e0800000000000000
+      internalID: -1976397878352368433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_135
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 98
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec46ba371bb9b1f90800000000000000
+      internalID: -6981815610855693106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_136
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 101
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbe93f06e578ab90800000000000000
+      internalID: -7230399570784949318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_137
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 101
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c82420942a5ab620800000000000000
+      internalID: 2790642032193054921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_138
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 83
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0a838d4cd0ffdd0800000000000000
+      internalID: -2450224533173919513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_139
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 83
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f022746e31a7f90800000000000000
+      internalID: -6955224794763489533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_140
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 81
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c8795157ad623c0800000000000000
+      internalID: -4384576990790317048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_141
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 81
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016e3825d7bdc9f00800000000000000
+      internalID: 1125015338237552144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_142
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 80
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75691a45fa03ad00800000000000000
+      internalID: 982641192323343742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_143
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 83
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f1fbfaf158363b0800000000000000
+      internalID: -5520422347087077495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton cleaned_144
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 83
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f644df24f29b0d0800000000000000
+      internalID: -3406639678365601934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
